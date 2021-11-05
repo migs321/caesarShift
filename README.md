@@ -12,4 +12,4 @@ This is our wordlist
 # installation
 Users can download the repo form here on our github, open the .py files and run them.
 # Usage
-Users can run the 
+Users can run the .py files, The creatflags.py will create a new set of randomly generated flags that follow our format.
